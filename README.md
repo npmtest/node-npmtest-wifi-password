@@ -91,7 +91,8 @@
     "version": "3.0.0",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
